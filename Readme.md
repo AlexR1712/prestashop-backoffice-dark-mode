@@ -6,6 +6,10 @@ It is a module for Prestashop that allows you to enable dark mode on all interfa
 
 This module makes use of the following Javascript library [Dark Reader](https://www.npmjs.com/package/darkreader) `MIT License`
 
+## Installation
+
+Upload module zip file from the back-office Module & Services menu tab. Module Manager area using the upload button. After the successful installation module menu, the link will appear in the left menu or in back-office area.
+
 # TODO List:
 
 - [ ] Add configuration Page
