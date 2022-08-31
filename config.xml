@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bodarkmode</name>
+	<displayName><![CDATA[Backoffice Dark Mode]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Just a Simple Dark Mode Module for Prestashop]]></description>
+	<author><![CDATA[Alexander Rodriguez]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
