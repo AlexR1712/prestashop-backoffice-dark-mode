@@ -6,6 +6,10 @@ It is a module for Prestashop that allows you to enable dark mode on all interfa
 
 This module makes use of the following Javascript library [Dark Reader](https://www.npmjs.com/package/darkreader) `MIT License`
 
+# TODO List:
+
+- [ ] Add configuration Page
+- [ ] Add ability to change color variations based on darkreader library
 
 ## Contributing
 
